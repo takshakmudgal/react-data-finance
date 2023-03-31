@@ -30,15 +30,15 @@ const Cards = () => {
             src={Double}
             alt="/"
           />
-          <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
-          <p className="text-center text-4xl font-bold">$149</p>
+          <h2 className="text-2xl font-bold text-center py-8">Two Users</h2>
+          <p className="text-center text-4xl font-bold">$249</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500GB Storage</p>
-            <p className="py-2 border-b mx-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8">Send upto 2GB</p>
+            <p className="py-2 border-b mx-8 mt-8">1.5TB Storage</p>
+            <p className="py-2 border-b mx-8">2 Granted User</p>
+            <p className="py-2 border-b mx-8">Send upto 5GB</p>
           </div>
           <button className="bg-[#0a0c12] hover:bg-[#3dc9f75d] duration-100 text-[#3dc9f7d3] w-[200px] rounded-md font-medium mx-auto px-6 my-6 py-3">
-            Start Trial
+            Buy Now
           </button>
         </div>
         {/* Third */}
@@ -48,15 +48,17 @@ const Cards = () => {
             src={Triple}
             alt="/"
           />
-          <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
-          <p className="text-center text-4xl font-bold">$149</p>
+          <h2 className="text-2xl font-bold text-center py-8">
+            Multiple Users
+          </h2>
+          <p className="text-center text-4xl font-bold">$649</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500GB Storage</p>
-            <p className="py-2 border-b mx-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8">Send upto 2GB</p>
+            <p className="py-2 border-b mx-8 mt-8">5TB Storage</p>
+            <p className="py-2 border-b mx-8">5 Granted User</p>
+            <p className="py-2 border-b mx-8">Send upto 10GB</p>
           </div>
           <button className="bg-[#3dc9f7d3] hover:bg-[#3dc9f75d] duration-100 text-[#242C3B] w-[200px] rounded-md font-medium mx-auto px-6 my-6 py-3">
-            Start Trial
+            Buy Now
           </button>
         </div>
       </div>
