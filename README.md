@@ -2,9 +2,9 @@
 
 A React and Tailwindcss based Frontend.
 
-**Link to App - ** https://react-data-finance.netlify.app/
+**Link to App -** https://react-data-finance.netlify.app/
 
-![App Page](https://imgur.com/jYNBws9)
+![App Page](https://i.imgur.com/jYNBws9.png)
 
 ## Tech Stack
 
